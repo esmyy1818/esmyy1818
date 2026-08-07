@@ -1,7 +1,8 @@
 ### Esmanur İmir — Data Engineering
 
-MIS senior at Düzce University, based in Istanbul.
+MIS senior at Düzce University, living in Istanbul.
 I build small data pipelines and measure them — every project ships with numbers.
+Also following what's new in data tooling and AI.
 
 **Currently:** making my ETL pipeline idempotent, adding logging and data quality tests.
 

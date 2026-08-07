@@ -1,3 +1,14 @@
- 👋 Hello! I’m a senior majoring in Management Information Systems at Düzce University, and I live in Istanbul. I’m currently focusing on data science, machine learning, and data-driven projects to develop my technical skills in the areas of data analysis, machine learning, and large language models (LLMs).
+### Esmanur İmir — Data Engineering
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/esmanurimir)
+MIS senior at Düzce University, based in Istanbul.
+I build small data pipelines and measure them — every project ships with numbers.
+
+**Currently:** making my ETL pipeline idempotent, adding logging and data quality tests.
+
+| Project | What | Result |
+|---|---|---|
+| [csv-parquet-benchmark](https://github.com/esmyy1818/csv-parquet-benchmark) | CSV vs Parquet on a 1M-row fraud dataset with DuckDB | 203 MB → 65 MB · query 0.51s → 0.011s (~48x) |
+
+**Stack:** Python · SQL · DuckDB · pandas · Git · Linux
+
+[LinkedIn](https://linkedin.com/in/esmanurimir) · esmyy1818@gmail.com

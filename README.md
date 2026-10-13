@@ -1,4 +1,4 @@
-### Esmanur İmir — Data Engineering
+### Esmanur İmir — Data Analyst
 
 MIS senior at Düzce University, living in Istanbul.
 I build small data pipelines and measure them — every project ships with numbers.
